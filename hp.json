@@ -1,11 +1,11 @@
 [
     {
         "__Credits__": {
-            "repository": "https://github.com/hamedp71",
-            "telegram": "https://t.me/hamedp71",
-            "donate": "USDT (TRC20): coming soon"
+            "repository": "https://github.com/patterniha/Serverless-for-Iran",
+            "telegram": "https://t.me/projectXhttp",
+            "donate": "USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o"
         },
-        "remarks": "hamedp71-serverles",
+        "remarks": "hamedp71-v41",
         "version": {
             "min": "25.12.8"
         },
@@ -679,7 +679,7 @@
             "telegram": "https://t.me/projectXhttp",
             "donate": "USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o"
         },
-        "remarks": "Serverless-dynx-v40",
+        "remarks": "hamedp71-dynx-v41",
         "version": {
             "min": "25.12.8"
         },
@@ -1445,7 +1445,7 @@
             "telegram": "https://t.me/projectXhttp",
             "donate": "USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o"
         },
-        "remarks": "Serverless-shatel-v40",
+        "remarks": "hamedp71-shatel-v41",
         "version": {
             "min": "25.12.8"
         },
@@ -2189,7 +2189,7 @@
             "telegram": "https://t.me/projectXhttp",
             "donate": "USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o"
         },
-        "remarks": "Serverless-vanilla-v40",
+        "remarks": "hamedp71-vanilla-v41",
         "version": {
             "min": "25.12.8"
         },
@@ -2246,7 +2246,8 @@
                     "tag": "anti-sanction-dns",
                     "address": "tcp://dns.vanillapp.ir:853",
                     "expectedIPs": [
-                        "85.133.201.71"
+                        "5.239.245.250",
+                        "78.158.166.180"
                     ],
                     "timeoutMs": 5000,
                     "finalQuery": false
@@ -2861,7 +2862,8 @@
                 {
                     "outboundTag": "onlyv4-direct-out",
                     "ip": [
-                        "85.133.201.71"
+                        "5.239.245.250",
+                        "78.158.166.180"
                     ]
                 },
                 {
@@ -2949,7 +2951,7 @@
             "telegram": "https://t.me/projectXhttp",
             "donate": "USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o"
         },
-        "remarks": "Serverless-zeus-v40",
+        "remarks": "Dr-Anv-zeus-v41",
         "version": {
             "min": "25.12.8"
         },
